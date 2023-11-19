@@ -38,4 +38,3 @@ Java HotSpot(TM) 64-Bit Server VM (build 20+36-1461, mixed mode, sharing)
 $ javac --version
 
 javac 20
-
